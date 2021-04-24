@@ -49,7 +49,7 @@ Route::get('/kisiler', function () {
 //    $kitap=Kitaplar::find(3);
 //    $kitap->delete();
 
-//    Yazarlar::create(['isim'=>'Necip Fazıl Kısakürek']);
+    Yazarlar::create(['isim'=>'Necip Fazıl ']);
 
 //    $yazar = Yazarlar::find(2);
 //    $yazar->delete();
